@@ -7,6 +7,8 @@ public class MyClass
     this.a = a;
     this.b = b;
   }
+
+  // Think of MyClass as a data type, "other" is an instance of that data type
   public boolean same(MyClass other)
   {
     return other.a == this.a && other.b == this.b;
