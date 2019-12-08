@@ -6,7 +6,7 @@ This Java GUI application will allow a user to select, change, submit, and clear
 
 **Instruction**
 
-* Download the whole project folder and run it in one of the Java IDE. IntelliJ IDEA IDE is recommended.
+* Download the source code and run it in one of the Java IDE. IntelliJ IDEA IDE is recommended.
 
 **Output**
 
