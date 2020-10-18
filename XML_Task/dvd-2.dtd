@@ -1,0 +1,7 @@
+<!ELEMENT DVD (summary*)>
+
+<!ELEMENT summary (count*)>
+
+<!ATTLIST count decade CDATA #REQUIRED>
+
+<!ELEMENT count (#PCDATA)>
